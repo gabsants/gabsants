@@ -1,6 +1,6 @@
 Olá, eu sou o Gabriella Santos! 👋
 
-👨‍💻 Sobre mim
+👨‍💻 Sobre <br>
 Estudante de Análise e Desenvolvimento de Sistemas.<br>
 Atualmente focada em construir uma base sólida em deselvolvimento de software e gerenciamento de dados.<br>
 Busco minha primeira oportunidade de estágio.
