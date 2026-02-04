@@ -27,3 +27,4 @@ Focada em construir uma base sólida em **desenvolvimento de software** e **gere
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](LINK-DO-SEU-LINKEDIN) 
 
 </div>
+![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabsants&show_icons=true&theme=radical)
