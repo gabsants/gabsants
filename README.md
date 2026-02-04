@@ -22,15 +22,8 @@ Focada em construir uma base sólida em **desenvolvimento de software** e **gere
 
 ---
 
-### 📊 **Estatísticas**
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabsants&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabsants&layout=compact&langs_count=7&theme=dracula" />
-
----
-
 ### 📫 **Vamos nos conectar?**
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](LINK-DO-SEU-LINKEDIN) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](LINK-DO-SEU-LINKEDIN) 
 
 </div>
