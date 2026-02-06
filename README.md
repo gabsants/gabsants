@@ -16,9 +16,20 @@ Focada em construir uma base sólida em **desenvolvimento de software** e **gere
 
 #### **Gestão & Design**
 ![Análise de Dados](https://img.shields.io/badge/Análise%20de%20Dados-232F3E?style=for-the-badge&logo=githubactions&logoColor=white) ![Gestão de Projetos](https://img.shields.io/badge/Gestão%20de%20Projetos-00897B?style=for-the-badge&logo=microsoft-project&logoColor=white) ![UX/UI](https://img.shields.io/badge/UX%20%7C%20UI-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 #### **Idioma**
 ![Inglês](https://img.shields.io/badge/Inglês-CFA100?style=for-the-badge&logo=google-translate&logoColor=white)
+
+---
+
+### 📊 Estatísticas de Desenvolvedora
+<p align="center">
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabsants&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabsants&layout=compact&theme=tokyonight" />
+</p>
+
+<br clear="both">
 
 ---
 
