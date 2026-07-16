@@ -25,7 +25,7 @@ Focada em construir uma base sólida em **desenvolvimento de software** e **gere
 
 ### 📫 **Vamos nos conectar?**
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][(LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/gabriella-santos-103a2922b?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][(LINK-DO-LINKEDIN)](https://www.linkedin.com/in/gabriella-santos-103a2922b?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
 
 </div>
 
