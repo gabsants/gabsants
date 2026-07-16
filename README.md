@@ -23,19 +23,9 @@ Focada em construir uma base sólida em **desenvolvimento de software** e **gere
 
 ---
 
-### 📊 Estatísticas de Desenvolvedora
-<p align="center">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabsants&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabsants&layout=compact&theme=tokyonight" />
-</p>
-
-<br clear="both">
-
----
-
 ### 📫 **Vamos nos conectar?**
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](LINK-DO-SEU-LINKEDIN) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][(LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/gabriella-santos-103a2922b?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
 
 </div>
 
